@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Slice GeoJSON features from the command line",
   "bin": {
-    "geojsonSlice": "lib/cli.js"
+    "geojson-slice": "lib/cli.js"
   },
   "main": "lib/index.js",
   "scripts": {
