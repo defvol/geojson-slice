@@ -1,0 +1,23 @@
+{
+  "name": "geojson-slice",
+  "version": "0.1.0",
+  "description": "Slice GeoJSON features from the command line",
+  "bin": {
+    "geojsonSlice": "lib/cli.js"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "tape test/*.test.js"
+  },
+  "keywords": [
+    "generator-npm-pasta"
+  ],
+  "author": "Ro Wilhelmy",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
