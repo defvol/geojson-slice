@@ -1,6 +1,6 @@
 {
   "name": "geojson-slice",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Slice GeoJSON features from the command line",
   "bin": {
     "geojson-slice": "lib/cli.js"
