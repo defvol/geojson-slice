@@ -18,6 +18,8 @@
     "tape": "^4.6.0"
   },
   "dependencies": {
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.0",
+    "turf-bbox-polygon": "^3.0.10",
+    "turf-within": "^3.0.10"
   }
 }
